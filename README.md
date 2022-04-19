@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning 
+🌱 I’m currently learning  </br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" height="18">
 
 <!--
