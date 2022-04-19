@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🌱 I’m currently learning 
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" height="22"> 
+<img src="https://img.shields.io/badge/%F0%9F%92%BB-Computer%20Science-Blue" height="22">
 
 📫 How to reach me: kimdee.dev@gmail.com  
 
