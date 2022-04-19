@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+🌱 I’m currently learning 
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 
 <!--
 **heydoy/heydoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
