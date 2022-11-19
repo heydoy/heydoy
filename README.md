@@ -1,10 +1,16 @@
-### DOY KIM 
-🌷 
-🌱 Studying <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" height="22"> <img src="https://img.shields.io/badge/%F0%9F%92%BB-Computer%20Science-Blue" height="22"> 
+## DOY KIM 
+🌷 Studying <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" height="22"> <img src="https://img.shields.io/badge/%F0%9F%92%BB-Computer%20Science-Blue" height="22"> 
 
 🍎 [ Appstore Developer Link](https://apps.apple.com/kr/developer/doy-kim/id1640992617)<br>
 📝 Blog(Korean) [kimdee.netlify.app](https://kimdee.netlify.app/blog/)<br>
 📫 E-mail [kimdee.dev@gmail.com](mailto:kimdee.dev@gmail.com) <br>
+<br>
+### PROJECTS
+[∙ 한미연합사전](https://apps.apple.com/kr/app/%ED%95%9C%EB%AF%B8%EC%97%B0%ED%95%A9%EC%82%AC%EC%A0%84/id1640992615) 한미 군사용어,약어 사전 | 2022.8.29 출시 
+<br>
+[∙ 연뮤로그](https://apps.apple.com/us/app/%EC%97%B0%EB%AE%A4%EB%A1%9C%EA%B7%B8/id6443663023) 연극∙뮤지컬 후기 앱 | 2022.10.7 출시
+<br><br>
+![표지](https://user-images.githubusercontent.com/51395335/196216841-b89e4883-09ab-4df0-aa5b-dd88f4f6a4c3.png)
 
 <!--
 **heydoy/heydoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
