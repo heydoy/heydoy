@@ -1,8 +1,8 @@
 ## DOY KIM 
 🌷 Studying <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" height="22"> <img src="https://img.shields.io/badge/%F0%9F%92%BB-Computer%20Science-Blue" height="22"> 
 
-🍎 [ Appstore Developer Link](https://apps.apple.com/kr/developer/doy-kim/id1640992617)<br>
-📝 Blog(Korean) [kimdee.netlify.app](https://kimdee.netlify.app/blog/)<br>
+🍎 [ Appstore Developer](https://apps.apple.com/kr/developer/doy-kim/id1640992617)<br>
+📝 Blog(Korean) [doy.oopy.io](https://doy.oopy.io)<br>
 📫 E-mail [kimdee.dev@gmail.com](mailto:kimdee.dev@gmail.com) <br>
 
 ### PROJECTS
