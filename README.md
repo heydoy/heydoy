@@ -12,8 +12,9 @@
 <br>
 [∙ 신작](https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%91/id6449455462) 신세대의 작품을 만나다 | 2023.06.08 출시
 <br><br>
+<!--
 ![표지](https://user-images.githubusercontent.com/51395335/196216841-b89e4883-09ab-4df0-aa5b-dd88f4f6a4c3.png)
-
+-->
 <!--
 **heydoy/heydoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
