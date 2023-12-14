@@ -7,6 +7,7 @@
 
 ### PROJECTS
 <br>
+
 [∙ 신작](https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%91/id6449455462) 신진 작가들의 작품 거래 및 작업 의뢰 플랫폼 | 2023.06.08 출시
 <br>
 
