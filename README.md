@@ -6,8 +6,8 @@
 📫 E-mail [kimdee.dev@gmail.com](mailto:kimdee.dev@gmail.com) <br>
 
 ### PROJECTS
-[∙ AI 드레스핏-iOS](https://apps.apple.com/ph/app/ai-dress-fit/id6737166513?uo=2) 가상 드레스 투어  | 2024.11 출시
-[∙ AI 드레스핏-Android](https://play.google.com/store/apps/details?id=com.ooyd.AIDressFit) | 2024.12 출시
+∙ AI드레스핏 - 가상 드레스 피팅 [iOS](https://apps.apple.com/ph/app/ai-dress-fit/id6737166513?uo=2) | 2024.11 출시 
+          /  [Android](https://play.google.com/store/apps/details?id=com.ooyd.AIDressFit) | 2024.12 출시
 
 [∙ 신작](https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%91/id6449455462) 신진 작가들의 작품 거래 및 작업 의뢰 플랫폼 | 2023.06.08 출시
 
